@@ -1,0 +1,10 @@
+TypeScript:
+install 
+npm install -g typescript
+install ts server 
+npm install -g lite-server
+Compile ts file 
+tsc helloworld.ts
+
+after adding config file 
+tsc -w 
